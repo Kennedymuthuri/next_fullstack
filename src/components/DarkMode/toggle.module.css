@@ -1,0 +1,14 @@
+.container{
+    width:60px;
+    height: 24ps;
+    border: 1.5px solid #53c28b70;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+}
+.ball{
+
+}

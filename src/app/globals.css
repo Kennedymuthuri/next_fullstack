@@ -26,7 +26,8 @@ a{
   max-width: 1366px;
   height: 100vh;
   margin: 0 auto;
-  padding: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

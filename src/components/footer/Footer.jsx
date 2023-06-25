@@ -1,10 +1,8 @@
-import React from 'react';
+import React from "react";
+import styles from "./footer.module.css";
 
 export default function Footer() {
   return (
-    <>
-    <div>2023 Kennedy. All rights reserved</div>
-    <div></div>
-    </>
+    <div className={styles.container}>2023 Kennedy. All rights reserved</div>
   );
 }
